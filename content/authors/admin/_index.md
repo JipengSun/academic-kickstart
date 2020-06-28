@@ -18,10 +18,6 @@ organizations:
   url: ""
 - name: Institute of Automation, Chinese Academy of Sciences
   url: ""
-- name: Northwestern University
-  url: ""
-- name: Shandong University
-  url: ""
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,16 +27,19 @@ interests:
 - Cognitive Robotics
 - Brain Machine Interface
 
-education:
+experience:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: MS in Computer Science
-    institution: Northwestern University
+    institution: Northwestern University, US
     year: 2020
+  - course: Research Engineer at Research Center for Brain-inspired AI
+    institution: Institute of Automation, Chinese Academy of Sciences
+    year: 2019
+  - course: Exchange Study in Computer Science
+    institution: University of Queensland, Australia
+    year: 2018
   - course: BSc in Software Engineering
-    institution: Shandong University
+    institution: Shandong University, China
     year: 2015
 
 # Social/Academic Networking
@@ -76,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jipeng Sun is an ENTJ.
