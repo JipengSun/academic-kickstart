@@ -27,14 +27,11 @@ interests:
 - Cognitive Robotics
 - Brain Machine Interface
 
-experience:
+education:
   courses:
   - course: MS in Computer Science
     institution: Northwestern University, US
     year: 2020
-  - course: Research Engineer at Research Center for Brain-inspired AI
-    institution: Institute of Automation, Chinese Academy of Sciences
-    year: 2019
   - course: Exchange Study in Computer Science
     institution: University of Queensland, Australia
     year: 2018
