@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Jipeng Sun is an ENTJ.
+Holding the belief that the human beings and machines are co-envolving into a more advanced life form, Jipeng Sun's lab is conducting bold research on both sides: enhancing human beings with machines and enchancing machines with human intelligence.
