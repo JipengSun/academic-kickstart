@@ -10,12 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Founding Director of Sharing Idea
+role: Founding Director of Sharing Idea Think Tank
 
 # Organizations/Affiliations
 organizations:
-- name: Sharing Idea
-  url: ""
 - name: Institute of Automation, Chinese Academy of Sciences
   url: ""
   
