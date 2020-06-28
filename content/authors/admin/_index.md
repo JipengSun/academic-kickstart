@@ -54,17 +54,6 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-experience:
-- course: MSc in Computer Science
-    institution: Northwestern University, US
-    year: 2020
-- course: Exchange Study in Computer Science
-    institution: University of Queensland, Australia
-    year: 2018
-- course: BSc in Software Engineering
-    institution: Shandong University, China
-    year: 2015
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
