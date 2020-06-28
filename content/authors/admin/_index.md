@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MS in Computer Science
+  - course: MSc in Computer Science
     institution: Northwestern University, US
     year: 2020
   - course: Exchange Study in Computer Science
@@ -44,21 +44,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "jipengsun@u.northwestern.edu".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JipengSun
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+
+experience:
+- course: MSc in Computer Science
+    institution: Northwestern University, US
+    year: 2020
+- course: Exchange Study in Computer Science
+    institution: University of Queensland, Australia
+    year: 2018
+- course: BSc in Software Engineering
+    institution: Shandong University, China
+    year: 2015
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
