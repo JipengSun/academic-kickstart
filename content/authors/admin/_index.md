@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Founding Director of Sharing Idea Think Tank
+role: Founding Director of Sharing Idea
 
 # Organizations/Affiliations
 organizations:
 - name: Institute of Automation, Chinese Academy of Sciences
-  url: ""
+  url: "http://english.ia.cas.cn/"
   
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,4 +64,8 @@ user_groups:
 - Visitors
 ---
 
-Holding the belief that the human beings and machines are co-envolving into a more advanced life form, Jipeng Sun's lab is conducting bold research on both sides: enhancing human beings with machines and enchancing machines with human intelligence.
+Holding the belief that the human beings and machines are co-envolving into a more advanced life form, Jipeng Sun founded Sharing Idea, an academic organization conducting bold research on both sides: enhancing human beings with machines, and enchancing machines with human intelligence.
+
+To enhance human beings with machines, Jipeng Sun focuses on two areas: revolutionary human-machine interaction technologies and online education. Technologies like brain-machine interface, augenmented reality, and e-learning system will be the next-generation computing tools to liberate human's hands, enrich human's eyes, and strengthen human's brain.
+
+Human intelligence is also inspiring for machines at this time. Besides the popular AI research directions such as NLP and CV, Jipeng Sun spends his time more on brain-inspired intelligence research. His research includes spiking neuron network, cognitive robotics, and machine reasoning. These research will enable machines with embodied experience, a truely crucial point for machines to obtain artificial general intelligence.
