@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Brain-inspired Artificial Intelligence
 - Cognitive Robotics
-- Brain Machine Interface
+- Brain-Machine Interface
 
 education:
   courses:
