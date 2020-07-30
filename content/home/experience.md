@@ -17,28 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Brain-inpired AI Researcher"
+  company = "Institute of Automation, Chinese Academy of Sciences"
   company_url = ""
-  location = "California"
+  location = "Beijing, China"
+  date_start = "2019-07-15"
+  date_end = "2020-12-31"
+  description = """Conducting research on the spiking neural compuational model of bodily self consciousness for robots"""
+[[experience]]
+  title = "Founding Director"
+  company = "Sharing Idea"
+  company_url = ""
+  location = "Jinan, China & Brisbane, Australia"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Sharing Idea is a post-K12 e-learning tech organization in China.
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
