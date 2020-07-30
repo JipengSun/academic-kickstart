@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "jipengsun@u.northwestern.edu".
+  link: 'jipengsun@u.northwestern.edu'  # For a direct email link, use "jipengsun@u.northwestern.edu".
 - icon: github
   icon_pack: fab
   link: https://github.com/JipengSun
@@ -55,14 +55,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jipengsun@u.northwestern.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+# ---
 
 Holding the belief that the human beings and machines are co-envolving into a more advanced life form, Jipeng Sun founded Sharing Idea, an academic organization conducting bold research on both sides: enhancing human beings with machines, and enchancing machines with human intelligence.
 
